@@ -21,11 +21,28 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+#######################   PROJET GEMS  ############################
 
 
-gem 'tailwindcss', '~> 1.0', '>= 1.0.3'
+#######################   MEMBERSHIP  ############################
 gem 'devise', '~> 4.7', '>= 4.7.3'
+
+
+#######################   FORMS  ############################
 gem 'simple_form', '~> 5.0', '>= 5.0.3'
+
+
+################### REAL TIME && REACIVE APP ############################
+gem 'anycable', '~> 1.0', '>= 1.0.1'
+gem 'view_component', '~> 2.22', '>= 2.22.1'
+gem 'view_component_reflex', '~> 2.6', '>= 2.6.2'
+gem 'cable_ready', '~> 4.4'
+gem 'stimulus_reflex', '~> 3.3'
+gem 'optimism', '~> 0.3.5'
+gem 'futurism', '~> 0.6.0'
+
+#######################   STYLES  ############################
+gem 'tailwindcss', '~> 1.0', '>= 1.0.3'
 
 
 # Use Active Storage variant
