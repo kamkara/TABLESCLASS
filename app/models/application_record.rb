@@ -1,8 +1,4 @@
 class ApplicationRecord < ActiveRecord::Base#
-#secure token
-  protect_from_forgery with: :exception
-
-
   self.abstract_class = true
 
   #Enables implicit order column
