@@ -33,13 +33,13 @@ gem 'simple_form', '~> 5.0', '>= 5.0.3'
 
 
 ################### REAL TIME && REACIVE APP ############################
-gem 'anycable', '~> 1.0', '>= 1.0.1'
-gem 'view_component', '~> 2.22', '>= 2.22.1'
-gem 'view_component_reflex', '~> 2.6', '>= 2.6.2'
-gem 'cable_ready', '~> 4.4'
-gem 'stimulus_reflex', '~> 3.3'
-gem 'optimism', '~> 0.3.5'
-gem 'futurism', '~> 0.6.0'
+#gem 'anycable', '~> 1.0', '>= 1.0.1'
+#gem 'view_component', '~> 2.22', '>= 2.22.1'
+#gem 'view_component_reflex', '~> 2.6', '>= 2.6.2'
+#gem 'cable_ready', '~> 4.4'
+#gem 'stimulus_reflex', '~> 3.3'
+#gem 'optimism', '~> 0.3.5'
+#gem 'futurism', '~> 0.6.0'
 
 #######################   STYLES  ############################
 gem 'tailwindcss', '~> 1.0', '>= 1.0.3'
